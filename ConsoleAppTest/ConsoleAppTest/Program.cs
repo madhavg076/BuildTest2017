@@ -11,6 +11,8 @@ namespace ConsoleAppTest
         public static void Main()
         {
             Console.WriteLine("This is the test program!");
+            Console.WriteLine("This is the test program!");
+            
         }
     }
 }
