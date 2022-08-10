@@ -1,0 +1,7 @@
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojAssemblyReference.cache
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+E:\05.02.22\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
